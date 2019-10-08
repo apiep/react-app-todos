@@ -10,7 +10,7 @@
 		"build": "react-scripts build",
 		"eject": "react-scripts eject",
 		"start": "react-scripts start",
-		"test": "react-scripts test",
+		"test": "react-scripts test --passWithNoTests",
 		"c:git:push-tag": "git push --tags",
 		"c:git:push-with-tag": "git push --follow-tags --set-upstream origin $branch",
 		"_bot:release": "auto release",
