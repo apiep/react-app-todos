@@ -49,5 +49,9 @@
 			"commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
 			"pre-commit": "pretty-quick --staged"
 		}
+	},
+	"repository": {
+		"url": "github:apiep/react-app-todos",
+		"type": "git"
 	}
 }
