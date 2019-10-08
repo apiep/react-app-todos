@@ -1339,6 +1339,11 @@
     "@svgr/plugin-svgo" "^4.3.1"
     loader-utils "^1.2.3"
 
+"@synvox/rehook@^0.0.17":
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/@synvox/rehook/-/rehook-0.0.17.tgz#7fda2abe6ead78c03ea4eba9e4b56ec1c2e9d242"
+  integrity sha512-d6bzPboX1GD/1+cWhIi982VLfwmYgO84nJub0jADMuwCT3A6SgTI7qUZ8XAIJ9y6EPGIboecgRP4Y8bCWOzELg==
+
 "@types/babel__core@^7.1.0":
   version "7.1.3"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.3.tgz#e441ea7df63cd080dfcd02ab199e6d16a735fc30"
@@ -3281,6 +3286,11 @@ csstype@^2.2.0:
   version "2.6.7"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.7.tgz#20b0024c20b6718f4eda3853a1f5a1cce7f5e4a5"
   integrity sha512-9Mcn9sFbGBAdmimWb2gLVDtFJzeKtDGIr76TUqmjZrw9LFXBMSU70lcs+C0/7fyCd6iBDqmksUcCOUIkisPHsQ==
+
+cuid@^2.1.6:
+  version "2.1.6"
+  resolved "https://registry.yarnpkg.com/cuid/-/cuid-2.1.6.tgz#dc3a20b5a7497d36d32c0bf8a2997524c9c796c4"
+  integrity sha512-ZFp7PS6cSYMJNch9fc3tyHdE4T8TDo3Y5qAxb0KSA9mpiYDo7z9ql1CznFuuzxea9STVIDy0tJWm2lYiX2ZU1Q==
 
 currently-unhandled@^0.4.1:
   version "0.4.1"
@@ -9266,6 +9276,11 @@ sha.js@^2.4.0, sha.js@^2.4.8:
   dependencies:
     inherits "^2.0.1"
     safe-buffer "^5.0.1"
+
+shades@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/shades/-/shades-2.1.0.tgz#5cefc51f6294769e3413d4e4050c9d4e7b00b245"
+  integrity sha512-6D+4+lPBjc95ptStD9PzOfrEc2d7zwxWVn2SFEbYaI4EXB5+tcChhyGwOEvbEjGb+d1QS44AcYcSYgWNz5grzg==
 
 shallow-clone@^0.1.2:
   version "0.1.2"
