@@ -28,3 +28,5 @@ export const Todo = ({ view, actions }: IProps) => (
 Todo.initActions = (view: IView, update: (view: IView) => void): IActions => ({
 	onToggle: () => update({ ...view, completed: !view.completed })
 })
+
+Todo.displayName = "Todo"
